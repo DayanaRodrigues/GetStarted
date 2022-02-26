@@ -1,2 +1,0 @@
-# GetStarted
-First try out
